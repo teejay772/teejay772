@@ -1,4 +1,4 @@
-### Nimasha T. Ganegoda Gei
+### Nimasha Thejani Ganegoda Gei
 
 
 - **Site and CV:** [teejay772.github.io](https://teejay772.github.io)
