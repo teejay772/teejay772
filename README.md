@@ -1,6 +1,5 @@
 ### Nimasha T. Ganegoda Gei
 
-Chemistry PhD dropout, now building systematic long/short models on gold and bitcoin. Based in Dubai.
 
 - **Site and CV:** [teejay772.github.io](https://teejay772.github.io)
 - **Trading research:** [quant-notes](https://teejay772.github.io/quant-notes/), with notes on time-series momentum, EWMA volatility, backtest errors and Sharpe ratio estimation
