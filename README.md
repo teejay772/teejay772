@@ -50,4 +50,12 @@ Systematic long/short research on gold and bitcoin, written up as I go in [quant
   <img src="assets/logos/azure.svg" width="40" height="40" alt="Azure" title="Azure">
 </p>
 
-**Chemistry:** ORCA · Gaussian · Molcas · PyRAI2MD · CREST · GROMACS · RDKit · HPC (SLURM)
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/molcas-white.png"><img src="assets/logos/molcas.png" height="40" alt="Molcas" title="Molcas"></picture>&nbsp;
+  <img src="assets/logos/crest.png" height="40" alt="CREST" title="CREST">&nbsp;
+  <img src="assets/logos/gromacs.png" height="40" alt="GROMACS" title="GROMACS">&nbsp;
+  <img src="assets/logos/rdkit.png" height="40" alt="RDKit" title="RDKit">&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/slurm-white.svg"><img src="assets/logos/slurm.svg" height="40" alt="Slurm" title="Slurm (HPC)"></picture>
+</p>
+
+**Also:** ORCA · Gaussian · PyRAI2MD
