@@ -12,30 +12,29 @@
 
 ---
 
-### <img src="assets/icons/chart-increasing.png" width="26" alt=""> Trading research
+### Trading research
 
 Systematic long/short research on gold and bitcoin, written up as I go in [quant-notes](https://teejay772.github.io/quant-notes/).
 
-| | Question | Note |
-|:-:|:--|:--|
-| <img src="assets/icons/compass.png" width="24" alt=""> | Which way? | [Time-series momentum](https://teejay772.github.io/quant-notes/momentum.html) |
-| <img src="assets/icons/balance-scale.png" width="24" alt=""> | How big? | [Volatility by EWMA](https://teejay772.github.io/quant-notes/ewma.html) |
-| <img src="assets/icons/test-tube.png" width="24" alt=""> | Can I trust the backtest? | [Errors and controls](https://teejay772.github.io/quant-notes/backtest.html) · [Backtester](https://teejay772.github.io/quant-notes/backtester.html) |
-| <img src="assets/icons/bullseye.png" width="24" alt=""> | Is the Sharpe ratio real? | [Sharpe ratio estimation](https://teejay772.github.io/quant-notes/sharpe.html) |
+| Question | Note |
+|:--|:--|
+| Which way? | [Time-series momentum](https://teejay772.github.io/quant-notes/momentum.html) |
+| How big? | [Volatility by EWMA](https://teejay772.github.io/quant-notes/ewma.html) |
+| Can I trust the backtest? | [Errors and controls](https://teejay772.github.io/quant-notes/backtest.html) · [Backtester](https://teejay772.github.io/quant-notes/backtester.html) |
+| Is the Sharpe ratio real? | [Sharpe ratio estimation](https://teejay772.github.io/quant-notes/sharpe.html) |
 
-<img src="assets/icons/world-map.png" width="20" alt=""> [Research plan and weekly status](https://teejay772.github.io/quant-notes/roadmap.html)
+[Research plan and weekly status](https://teejay772.github.io/quant-notes/roadmap.html)
 
-### <img src="assets/icons/atom-symbol.png" width="26" alt=""> Quantum chemistry
+### Quantum chemistry
 
-<img src="assets/icons/light-bulb.png" width="20" alt=""> [A non-De Mayo photochemical pathway](https://teejay772.github.io/Computational-Elucidation-of-the-Non-De-Mayo-Photochemical-Pathway/) (slides)
+- [A non-De Mayo photochemical pathway](https://teejay772.github.io/Computational-Elucidation-of-the-Non-De-Mayo-Photochemical-Pathway/) (slides)
+- [Z/E isomerisation of ketone-based hydrazones](https://teejay772.github.io/Ketone-based-hydrazones/) (slides)
 
-<img src="assets/icons/alembic.png" width="20" alt=""> [Z/E isomerisation of ketone-based hydrazones](https://teejay772.github.io/Ketone-based-hydrazones/) (slides)
-
-### <img src="assets/icons/fountain-pen.png" width="26" alt=""> Writing
+### Writing
 
 [The Abyss](https://theabyssos.com), a science journal for everyone, where I write evidence-led articles.
 
-### <img src="assets/icons/hammer-and-wrench.png" width="26" alt=""> Toolkit
+### Toolkit
 
 <p>
   <img src="assets/logos/python.svg" width="40" height="40" alt="Python" title="Python">&nbsp;
