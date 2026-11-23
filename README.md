@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" width="100%" alt="Molecular render of a protein complex"></p>
+
 <h1 align="center">Nimasha Thejani Ganegoda Gei</h1>
 
 <p align="center"><img src="assets/icons/round-pushpin.png" width="18" alt=""> Dubai, UAE</p>
