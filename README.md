@@ -52,9 +52,14 @@ Systematic long/short research on gold and bitcoin, written up as I go in [quant
 
 <p>
   <img src="assets/logos/gaussian.png" height="40" alt="Gaussian" title="Gaussian">&nbsp;
+  <img src="assets/logos/gaussview.png" height="40" alt="GaussView" title="GaussView">&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/molcas-white.png"><img src="assets/logos/molcas.png" height="40" alt="Molcas" title="Molcas"></picture>&nbsp;
   <img src="assets/logos/gromacs.png" height="40" alt="GROMACS" title="GROMACS">&nbsp;
   <img src="assets/logos/rdkit.png" height="40" alt="RDKit" title="RDKit">&nbsp;
+  <img src="assets/logos/pymol.png" height="40" alt="PyMOL" title="PyMOL">&nbsp;
+  <img src="assets/logos/yasara.png" height="40" alt="YASARA" title="YASARA">&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/avogadro-white.png"><img src="assets/logos/avogadro.png" height="40" alt="Avogadro" title="Avogadro"></picture>&nbsp;
+  <img src="assets/logos/chemdraw.png" height="40" alt="ChemDraw" title="ChemDraw">&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/slurm-white.svg"><img src="assets/logos/slurm.svg" height="40" alt="Slurm" title="Slurm (HPC)"></picture>
 </p>
 
