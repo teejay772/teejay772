@@ -34,7 +34,7 @@ Systematic long/short research on gold and bitcoin, written up as I go in [quant
 
 ### Writing
 
-[The Abyss](https://theabyssos.com), a science journal for everyone, where I write evidence-led articles.
+<a href="https://theabyssos.com"><img src="assets/logos/abyss.png" height="36" align="absmiddle" alt="The Abyss logo"></a>&nbsp; [The Abyss](https://theabyssos.com), a science journal for everyone, where I write evidence-led articles.
 
 ### Toolkit
 
