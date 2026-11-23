@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header-blend.png" width="100%" alt="Molecular renders: orbitals, a protein complex and a hydrazone"></p>
+<p align="center"><img src="assets/header-protein.png" width="60%" alt="Molecular render of a protein complex"></p>
 
 <h1 align="center">Nimasha Thejani Ganegoda Gei</h1>
 
