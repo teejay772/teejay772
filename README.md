@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.png" width="100%" alt="Molecular render of a protein complex"></p>
+<p align="center"><img src="assets/header-slim.png" width="100%" alt="Molecular render of a protein complex"></p>
 
 <h1 align="center">Nimasha Thejani Ganegoda Gei</h1>
 
